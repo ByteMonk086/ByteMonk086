@@ -1,3 +1,9 @@
+<h3 align="center">
+  
+  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  
+</h3>
+
 [![](https://visitcount.itsvg.in/api?id=cyberknight0001&icon=5&color=11)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Ujjawal Pandey</h1>
 <h3 align="center">I'm not a great programmer. I'm just a good programmer with great habits.</h3>
@@ -30,3 +36,9 @@
 
 ## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
