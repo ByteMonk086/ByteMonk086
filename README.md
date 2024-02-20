@@ -1,7 +1,4 @@
-# 💫 About Me:
----
 [![](https://visitcount.itsvg.in/api?id=cyberknight0001&icon=5&color=11)](https://visitcount.itsvg.in)
-
 <h1 align="center">Hi 👋, I'm Ujjawal Pandey</h1>
 <h3 align="center">I'm not a great programmer. I'm just a good programmer with great habits.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
