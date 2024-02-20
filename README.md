@@ -27,15 +27,15 @@
 <a href="https://instagram.com/ujjawal____278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjawal____278" height="30" width="40" /></a>
 <a href="https://medium.com/@spider92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spider92" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/ujjawalpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ujjawalpandey" height="30" width="40" /></a>
-<a href="https://leetcode.com/CyberKnight_0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ujjawal_278/" height="30" width="40" /></a>
+<a href="https://leetcode.com/CyberKnight_0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/CyberKnight_0001/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ujjawal__278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ujjawal__278" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ujjawal92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ujjawal92" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawal92&show_icons=true&locale=en&layout=compact" alt="ujjawal92" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberknight0001&show_icons=true&locale=en&layout=compact" alt="cyberknight0001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawal92&show_icons=true&locale=en" alt="ujjawal92" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberknight0001&show_icons=true&locale=en" alt="cyberknight0001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal92&" alt="ujjawal92" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberknight0001&" alt="cyberknight0001" /></p>
