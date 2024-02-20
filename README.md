@@ -39,3 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberknight0001&show_icons=true&locale=en" alt="cyberknight0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberknight0001&" alt="cyberknight0001" /></p>
+
+###
+
+<img src="https://raw.githubusercontent.com/cyberknight0001/cyberknight0001/output/snake.svg" alt="Snake animation" />
+
+###
