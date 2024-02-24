@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=cyberknight0001&icon=5&color=11)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Ujjawal Pandey</h1>
-<h3 align="center">I'm not a great programmer. I'm just a good programmer with great habits.</h3>
+<h3 align="center">If I am not building something, I would be thinking of building something!</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 <br><br>
 📚 I’m currently Studying Computer Science E-commerce Websites & ED-Tech Websites.<br><br>🌱 I’m currently learning Backend Development(ExpressJs, MongoDB).<br><br>🔭 I’m currently working on E-commerce Websites & ED-Tech Websites.<br><br>👨‍💻 All of my projects are available at https://bio.link/ujjawalpandey<br><br>💬 Ask me about Web Development, DSA, C++, MongoDB, Git&Git.Hub.<br><br>📫 How to reach me ujjawalpandey818@gmail.com
