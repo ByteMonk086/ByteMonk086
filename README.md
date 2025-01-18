@@ -9,7 +9,10 @@
 <h3 align="center">If I am not building something, I would be thinking of building something!</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 <br><br>
-📚 I’m currently Studying Computer Science E-commerce Websites & ED-Tech Websites.<br><br>🌱 I’m currently learning Backend Development(ExpressJs, MongoDB).<br><br>🔭 I’m currently working on E-commerce Websites & ED-Tech Websites.<br><br>👨‍💻 All of my projects are available at https://bio.link/ujjawalpandey<br><br>💬 Ask me about Web Development, DSA, C++, MongoDB, Git&Git.Hub.<br><br>📫 How to reach me ujjawalpandey818@gmail.com
+🎓 I recently completed my B.Tech in Computer Science and Engineering at Panipat Institute of Engineering and Technology (2020–2024).<br><br>🌱 I’m currently diving deep into Golang, DevOps, and AWS to expand my backend development and cloud infrastructure skills.<br><br>📚 Currently Learning
+Golang for efficient and scalable backend solutions.
+DevOps tools and AWS for cloud computing and automation.
+Advanced concepts in MongoDB and database design.<br><br>👨‍💻 All of my projects are available at https://bio.link/ujjawalpandey<br><br>💬 Ask me about Full Stack Development, DSA, C++,MERN Stack, MongoDB, Git & GitHub, Docker, AWS, Devops.<br><br>📫 How to reach me ujjawalpandey0001@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cyberknight0001&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
