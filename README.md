@@ -47,7 +47,7 @@ Advanced concepts in MongoDB and database design.<br><br>👨‍💻 All of my p
 
 
 
-<h1 align="center">Hey 👋, I'm Ujjawal Pandey</h1>
+<!-- <h1 align="center">Hey 👋, I'm Ujjawal Pandey</h1>
 <h3 align="center">⚡ Backend Engineer | Golang | Scalable Systems | DevOps</h3>
 
 <p align="center">
@@ -169,4 +169,188 @@ I’m a backend-focused engineer who builds **fast, scalable, and production-rea
 
 <p align="center">
   🚀 Building. Learning. Scaling.
+</p> -->
+
+
+
+
+
+
+<h1 align="center">Hey 👋, I'm Ujjawal Pandey</h1>
+<h3 align="center">⚡ Backend Engineer | Golang | Scalable Systems | Founder @ PrepGalaxy</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ByteMonk086&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+I am not just a developer — I am a **system builder**.
+
+I design and build **scalable backend systems, real-world platforms, and production-grade architectures**.
+
+- 🎓 B.Tech CSE (2020–2024)
+- ⚡ 650+ DSA Problems Solved | LeetCode ~1992
+- 🔥 Freelance Full Stack Developer (MERN)
+- 🧠 Deep focus on **Backend, System Design & Cloud Engineering**
+
+---
+
+## 🚀 Founder Mode: PrepGalaxy (Building in Public 🚧)
+
+### 🧠 Vision: One Platform for All Exams
+
+> SSC | JEE (Mains + Advanced) | UPSC | GATE | Banking | Railway | and more...
+
+💡 Goal:
+Build a **unified, scalable EdTech ecosystem** where students don't need multiple platforms.
+
+⚡ What I'm building:
+- Learning platform
+- Test system
+- Content engine
+- Scalable backend infra
+
+---
+
+## 🔥 Ongoing Production-Grade Systems
+
+### 🏢 PG Ecosystem (Scalable SaaS Platform) 🚧
+> Real-world housing platform designed for **Pan-India scale**
+
+- Multi-city architecture (Delhi → All India)
+- Advanced filtering & search engine
+- Real-time availability system
+- Booking engine (transaction-safe)
+- Designed for **horizontal scaling + high traffic**
+
+---
+
+### 🤝 Peer Ecosystem (Developer Collaboration Platform) 🚧
+> A platform where developers connect, collaborate & grow
+
+- Profile system (skills + projects)
+- Real-time collaboration features
+- Peer matching system
+- Community-driven growth model
+- Event-based backend architecture
+
+---
+
+### 💼 Job Portal (Scalable Production System) 🚧
+> Designed to handle **high traffic recruitment ecosystem**
+
+- Role-based dashboards (candidate / recruiter)
+- Smart job matching algorithm
+- Resume parsing system (future)
+- Search & filtering engine
+- Scalable backend (millions of users ready)
+
+---
+
+### 🚀 PrepGalaxy (EdTech Startup) 🚧
+> All-in-one exam preparation ecosystem
+
+- Multi-exam architecture
+- Content delivery system
+- Test series engine
+- Performance analytics
+- Designed for **mass-scale students**
+
+---
+
+## ⚙️ Tech Arsenal (Engineer's View ⚡)
+
+### 🧬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,cpp" />
+</p>
+
+---
+
+### 🧠 Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Scalable API Design  
+- Authentication & Authorization  
+- Rate Limiting  
+- Caching (Redis)  
+- Event-driven architecture  
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+- Data Modeling  
+- Query Optimization  
+- Indexing Strategies  
+- High-performance caching  
+
+---
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx" />
+</p>
+
+- Containerization  
+- CI/CD Pipelines  
+- Reverse Proxy  
+- Production Deployment  
+
+---
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteMonk086&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMonk086&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- Distributed Systems  
+- Microservices Architecture  
+- System Design (High Level + Low Level)  
+- Kubernetes & Cloud Scaling  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ukp086">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ujjawalpandey0001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> “I don't build apps for demo — I build systems for scale.”
+
+---
+
+<p align="center">
+  🚀 Builder | 🧠 System Thinker | ⚡ Founder Mindset
 </p>
