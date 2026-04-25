@@ -1,4 +1,4 @@
-<h3 align="center">
+<!-- <h3 align="center">
   
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
   
@@ -41,4 +41,132 @@ Advanced concepts in MongoDB and database design.<br><br>👨‍💻 All of my p
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</h3>
+</h3> -->
+
+
+
+
+
+<h1 align="center">Hey 👋, I'm Ujjawal Pandey</h1>
+<h3 align="center">⚡ Backend Engineer | Golang | Scalable Systems | DevOps</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ByteMonk086&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m a backend-focused engineer who builds **fast, scalable, and production-ready systems**.
+
+- 🎓 B.Tech in Computer Science (2020–2024)
+- ⚡ Currently mastering **Golang, System Design & Cloud (AWS)**
+- 🧠 Strong in **DSA, APIs, Databases & Backend Architecture**
+- 🔥 Focused on solving **real-world problems with scalable systems**
+
+💡 I don’t just build projects — I build systems that can scale.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Golang` `JavaScript` `C++`
+
+### ⚙️ Backend
+`Node.js` `Express` `REST APIs` `WebSockets`
+
+### 🗄 Databases
+`MongoDB` `PostgreSQL` `Redis`
+
+### ☁️ DevOps & Cloud
+`Docker` `Kubernetes` `AWS` `Nginx`
+
+### 🔧 Tools
+`Git` `Linux` `Postman` `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 PG Booking System (Scalable SaaS)
+> Multi-city backend system designed for real-world scalability
+
+- Multi-location architecture (Delhi, Noida, Gurgaon → scalable)
+- Smart filtering & search optimization
+- Booking + availability management system
+- Designed for horizontal scaling
+
+---
+
+### ⚡ URL Shortener (High Performance)
+> Built using Golang with caching & performance focus
+
+- Redis caching for ultra-fast redirects
+- Rate limiting for abuse protection
+- Analytics tracking system
+- Optimized for high traffic
+
+---
+
+### 🧠 Real-Time Chat App
+> WebSocket-based communication system
+
+- Live messaging
+- Rooms & user management
+- Typing indicators
+- Scalable event handling
+
+---
+
+### ☁️ DevOps Deployment Project
+> Production-ready deployment pipeline
+
+- Dockerized applications
+- CI/CD integration
+- AWS deployment
+- Nginx reverse proxy setup
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteMonk086&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMonk086&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- Microservices Architecture
+- Kubernetes Deep Dive
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ukp086" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ujjawalpandey0001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> "Code is not just about making things work — it's about making them scale."
+
+---
+
+<p align="center">
+  🚀 Building. Learning. Scaling.
+</p>
